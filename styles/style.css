@@ -1,0 +1,51 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* body{
+    background-color: aqua;
+} */
+
+
+.font-work-sans {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+/* shared style */
+
+
+
+
+
+
+
+
+
+
+/* Main style */
+
+header .hiro-section {
+    /* background: url(../images/banner/banner1.png); */
+    background-repeat: no-repeat;
+    width: auto;
+    background-color: red;
+}
+
+header .hero-container{
+    background: url(../images/banner/banner1.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 808px;
+    width: 100%;
+    vertical-align: middle;
+}
+
+header {
+    text-align: right;
+    margin: 0 auto;
+    
+}
